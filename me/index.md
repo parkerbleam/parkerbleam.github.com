@@ -2,13 +2,15 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Hello, my name is Parker Bleam. I do Data Science and programming at a company in Charlottesville, Virginia called Elder Research.
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+# Things I Like
 
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
+* thing 1
+* thing 2
+* thing 3
+* thing 4
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+## H2 example
+
+### H3 example
