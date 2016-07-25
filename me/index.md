@@ -11,6 +11,4 @@ Hello, my name is Parker Bleam. I do Data Science and programming at a company i
 * thing 3
 * thing 4
 
-## H2 example
 
-### H3 example

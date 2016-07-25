@@ -1,7 +1,11 @@
-- name: Fatso
+- name: Bath Signal
   category: theme
-  url: https://github.com/getmicah/fatso
+  url: https://parkerbleam.github.io/
 
-- name: Beam
+- name: Draft Kings
   category: theme
-  url: https://github.com/getmicah/beam
+  url: https://parkerbleam.github.io/
+
+- name: This Site
+  category: theme
+  url: https://parkerbleam.github.io/

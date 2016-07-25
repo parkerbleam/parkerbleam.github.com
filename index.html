@@ -17,9 +17,9 @@ layout: default
 <div class="portfolio">
     <h1>Projects:</h1>
     <ul>
-        {% for websites in site.data.websites %}
+        {% for project in site.data.projects %}
         <li>
-            <a href="{{ websites.url }}">{{ websites.url }}</a>
+            <a href="{{ projects.url }}">{{ projects.name }}</a>
         </li>
         {% endfor %}
     </ul>
