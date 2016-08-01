@@ -1,5 +1,5 @@
 ---
-layout: colophon 
+layout: colophon
 ---
 
 # Tools
