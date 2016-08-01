@@ -1,14 +1,12 @@
 ---
-layout: about
+layout: colophon 
 ---
 
-Hello, my name is Parker Bleam. I do Data Science and programming at a company in Charlottesville, Virginia called Elder Research.
+# Tools
 
-# Things I Like
-
-* thing 1
-* thing 2
-* thing 3
+* BBEdit
+* Git
+* Jekyll
 * thing 4
 
 
