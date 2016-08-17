@@ -4,7 +4,7 @@ layout: colophon
 
 # Tools
 
-* BBEdit
+* Vim
 * Git
 * Jekyll
 * thing 4
