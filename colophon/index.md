@@ -7,6 +7,3 @@ layout: colophon
 * Vim
 * Git
 * Jekyll
-* thing 4
-
-

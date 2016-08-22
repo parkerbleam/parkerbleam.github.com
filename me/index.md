@@ -2,7 +2,7 @@
 layout: about
 ---
 
-Hello, my name is Parker Bleam. I do Data Science and programming at a company in Charlottesville, Virginia called Elder Research.
+My name is Parker Bleam. I do Data Science and programming at a company in Charlottesville, Virginia called Elder Research.
 
 # Things I Like
 
