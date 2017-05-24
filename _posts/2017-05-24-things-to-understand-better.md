@@ -1,6 +1,4 @@
-# Things I Want to Understand Better
-
-## Linear Algebra
+# Linear Algebra
 
 * Application of eigenvectors/values to PCA
 * Matrices as transformations
@@ -10,7 +8,7 @@
 * Applied linear algebra in numpy
 * L1 vs L2 distances and when to use each
 
-## Deep Learning
+# Deep Learning
 
 * Recurrent Nerual Networks
 * Convolutional Neural Networks
@@ -20,14 +18,14 @@
 * Using GPUs on AWS
 * Implementations in Keras/TensorFlow
 
-## Algorithms
+# Algorithms
 
 * Time and space complexity
 * Runtime analysis (Big O notation)
 * BFS/DFS/Djikstra/A*
 * Sorting
 
-## Databases
+# Databases
 
 * 1st - 3rd Normal Forms
 * Why denormalization can be helpful
@@ -41,13 +39,13 @@
 	* Storage/Speed tradeoffs
 * OLAP
 
-## High Performance Computing
+# High Performance Computing
 
 * MapReduce/HFDS
 * Sharding
 * Spark
 
-## Git
+# Git
 
 * Large File System (LFS)
 	* Tracks on the server but not locally. A pointer to the file is stored locally and you can lazily access the data. An example use case could be storing models in .Rdata files.
